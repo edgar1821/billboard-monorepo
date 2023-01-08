@@ -1,2 +1,2 @@
-export * from './lib/header/header';
-export * from './lib/billboard-ui';
+export * from './lib/header/header'
+export * from './lib/billboard-ui'

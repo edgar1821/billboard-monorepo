@@ -6,7 +6,7 @@ export function BillboardUi(props: BillboardUiProps) {
     <div className="bg-slate-400 border-solid	border-slate-500	">
       <h1>Welcome to BillboardUi!</h1>
     </div>
-  );
+  )
 }
 
-export default BillboardUi;
+export default BillboardUi

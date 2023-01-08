@@ -1,3 +1,12 @@
 {
-  "singleQuote": true
+  "endOfLine": "auto",
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "editor.formatOnSave": true,
+  "printWidth": 80,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
 }
