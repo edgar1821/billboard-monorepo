@@ -20,7 +20,10 @@
           "apps/billboard-app/src/favicon.ico",
           "apps/billboard-app/src/assets"
         ],
-        "styles": ["apps/billboard-app/src/styles.scss"],
+        "styles": [
+          "apps/billboard-app/src/styles.scss",
+          "libs/billboard-ui/src/styles.scss"
+        ],
         "scripts": [],
         "webpackConfig": "@nrwl/react/plugins/webpack"
       },

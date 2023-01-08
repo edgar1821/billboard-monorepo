@@ -1,11 +1,9 @@
-import styles from './billboard-ui.module.scss';
-
 /* eslint-disable-next-line */
 export interface BillboardUiProps {}
 
 export function BillboardUi(props: BillboardUiProps) {
   return (
-    <div className={styles['container']}>
+    <div className="bg-slate-400 border-solid	border-slate-500	">
       <h1>Welcome to BillboardUi!</h1>
     </div>
   );
